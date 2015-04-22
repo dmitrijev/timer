@@ -1,3 +1,2 @@
 # timer
 Spend your time wisely
-And do your thing...
